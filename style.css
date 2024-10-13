@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table, th, td {
+    border-collapse: collapse;
+    padding: 10px;
+  }
+  table {
+    width: 30%;
+    height: 30px;
+    margin: 10px;
+  }
+th {
+    color: rgb(111, 146, 182);
+    
+}
+td {
+    color: rgb(75, 95, 116);
+    
+} 
+.f1 {
+     background-color: rgb(186, 199, 216); 
+}
+
+
+
+
+  /* .p {
+    color: white;
+    background-color:rgb(163, 186, 216);
+  }
+
+  .q {
+    color: black;
+    background-color: lightskyblue;
+  }
+
+  .q {
+    color: black;
+    background-color: lightskyblue;
+  }
+  .b {
+    color: black;
+  } */
